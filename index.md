@@ -1,3 +1,8 @@
+# Anisha's First CS193 Homework
+- I like the new friends that I've made through CS 193
+- I like how accomodating the TA's are, responding to emails even at inconvenient times
+- I like how the class makes me excited about my future of CS at Purdue
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
